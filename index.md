@@ -1,1 +1,1 @@
-https://leschultz.github.io/leschultz.github.io/Schult_Lane_Resume.pdf
+https://leschultz.github.io/resume/Schults_Lane_Resume.pdf
