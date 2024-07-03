@@ -1,1 +1,1 @@
-Hosting my curriculum vitae
+Hosting my résumé
