@@ -1,0 +1,51 @@
+\documentclass[letter,12pt]{article}
+
+\usepackage{style}
+
+\setlist[itemize]{noitemsep,topsep=0pt}
+
+\def\name{Lane Enrique Schultz}
+\def\phone{(806) 678-6904}
+\def\emailwisc{lsschultz@wisc.edu}
+\def\emailgmail{laneenriqueschultz@gmail.com}
+\def\LinkedIn{lane-schultz-983920236}
+\def\github{leschultz}
+\def\website{leschultz.github.io}
+
+\addbibresource{sections/refs.bib}
+
+\fancypagestyle{firstpage}
+{
+    \fancyhead[L]
+    {
+            \href{mailto:\emailgmail}{\emailgmail}\\
+            \href{mailto:\emailwisc}{\emailwisc}\\
+            \phone
+    }
+
+    \fancyhead[C]
+    {
+            \centering {\Large \textbf{\name} \vspace{.25em}}
+    }
+
+    \fancyhead[R]
+    {
+        LinkedIn: \href{https://www.linkedin.com/in/\LinkedIn}{\LinkedIn}\\
+        Website: \href{https://\website}{\website}\\
+        GitHub: \href{https://github.com/\github}{\github}
+    }
+
+}
+
+\begin{document}
+\justifying
+
+\thispagestyle{firstpage}
+
+\vspace*{0.25px}
+\input{sections/education}
+\input{sections/skills}
+\input{sections/experience}
+\input{sections/additional_information}
+
+\end{document}
