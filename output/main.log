@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 40) (preloaded format=pdflatex 2024.6.26)  3 JUL 2024 13:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 40) (preloaded format=pdflatex 2024.6.26)  3 JUL 2024 13:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -744,31 +744,31 @@ LaTeX Warning: Unused global option(s):
 (./output/main.aux)
 \openout1 = `output/main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 42.
 LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 4
-0.
+2.
  (/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -815,13 +815,13 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `output/main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'output/main.bbl' found.
+Package biblatex Info: ... file 'output/main.bbl' not found.
 
-(./output/main.bbl)
-Package biblatex Info: Reference section=0 on input line 40.
-Package biblatex Info: Reference segment=0 on input line 40.
-Package hyperref Info: Link coloring ON on input line 40.
- (./output/main.out) (./output/main.out)
+No file output/main.bbl.
+Package biblatex Info: Reference section=0 on input line 42.
+Package biblatex Info: Reference segment=0 on input line 42.
+Package hyperref Info: Link coloring ON on input line 42.
+(./output/main.out) (./output/main.out)
 \@outlinefile=\write4
 \openout4 = `output/main.out'.
 
@@ -932,18 +932,18 @@ onte Carlo (DAGMC)
  []
 
 ) (./sections/additional_information.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--50
+Underfull \hbox (badness 10000) in paragraph at lines 3--52
 
  []
 
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 51.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 53.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 17.28pt on input line 51.
+(Font)              scaled to size 17.28pt on input line 53.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/semibold/n' on input line 51.
+(Font)              `T1/SourceSansPro-TLF/semibold/n' on input line 53.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/n' will be
-(Font)              scaled to size 17.28pt on input line 51.
+(Font)              scaled to size 17.28pt on input line 53.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 41.71402pt, for example:
@@ -956,9 +956,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}
 
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}{/usr
-/share/texlive/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}{/usr/shar
-e/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] (./output/main.
-aux)
+/share/texlive/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}] (./outpu
+t/main.aux)
 Package rerunfilecheck Info: File `output/main.out' has not changed.
 (rerunfilecheck)             Checksum: E365E6AA96F17D48235FE48C8A0837E1;463.
 Package logreq Info: Writing requests to 'output/main.run.xml'.
@@ -966,22 +965,21 @@ Package logreq Info: Writing requests to 'output/main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18666 strings out of 476041
- 329091 string characters out of 5793164
+ 18662 strings out of 476041
+ 329035 string characters out of 5793164
  1874388 words of memory out of 6000000
- 38873 multiletter control sequences out of 15000+600000
+ 38872 multiletter control sequences out of 15000+600000
  593375 words of font info for 58 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  78i,11n,82p,686b,854s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-
 It.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSan
 sPro-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro
-/SourceSansPro-Semibold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/c
-m-super/sfrm1200.pfb>
-Output written on output/main.pdf (1 page, 178356 bytes).
+/SourceSansPro-Semibold.pfb>
+Output written on output/main.pdf (1 page, 175591 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 59 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
