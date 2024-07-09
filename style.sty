@@ -9,19 +9,21 @@
                 top=0.75in,
                 ]{geometry}
 
-\RequirePackage[natbib=true,
-                style=ieee,
-                sorting=none,
+\RequirePackage[
                 maxcitenames=99,
-                citestyle=numeric-comp,
                 ]{biblatex}
 
-\RequirePackage[default,semibold]{sourcesanspro}
+\RequirePackage[
+                default,
+                semibold
+                ]{sourcesanspro}
+
 \RequirePackage[nostruts]{titlesec}
 \RequirePackage[12pt]{moresize}
 \RequirePackage[utf8]{inputenc}
 \RequirePackage[T1]{fontenc}
 
+\RequirePackage{lastpage}
 \RequirePackage{ragged2e}
 \RequirePackage{csquotes}
 \RequirePackage{hyperref}
@@ -34,7 +36,7 @@
 \hyphenpenalty=10000
 \exhyphenpenalty=10000
 
-\setlist[itemize]{noitemsep,topsep=0pt}
+\setlist[itemize]{itemsep=0.5pt,topsep=0pt}
 
 \definecolor{highlight}{RGB}{61, 90, 128}
 
